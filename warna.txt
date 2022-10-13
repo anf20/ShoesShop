@@ -1,0 +1,4 @@
+#1e0000 dark
+#500805 wine 
+#9d331f clay 
+#bc6d4f dusty rose
